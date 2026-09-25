@@ -24,10 +24,10 @@ repository               : "yuyuan1yu/yuyuan1yu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yuyuan Yu"  #Your Sidebar Name
   pronouns         : she/her # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Hong Kong, SAR China"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "yuyuan.3y@gmail.com" 

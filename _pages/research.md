@@ -25,3 +25,7 @@ author_profile: true
    heightened smuggling-related criminal activity, and deteriorating performance among affected firms.
    To quantify the welfare effects, we develop a hybrid sufficient-statistic framework that integrates reduced-form evasion elasticities with structural estimates of shadow costs.
    We find that the environmental gains more than offset the costs of smuggling and losses from distortions.
+
+## Work in Progress
+
+1. "Dam Good for Trade" (with Hanwei Huang, Yu-Hsiang Lei, and Yan Lei).

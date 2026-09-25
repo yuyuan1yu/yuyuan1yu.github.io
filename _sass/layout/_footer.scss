@@ -103,34 +103,50 @@
   }
 }
 
+/* ===== Custom compact footer ===== */
+
 .page__footer {
-  background-color: #1a1a1a;
-  color: #ffffff;
-  padding: 7px 0;
-  margin-top: 2em;
-  font-size: 12px;
-  text-align: center;
+  width: 100% !important;
+  margin-top: 2em !important;
+  padding: 0 !important;
+
+  background: #1a1a1a !important;
+  background-color: #1a1a1a !important;
+
+  color: #ffffff !important;
+  text-align: center !important;
 }
 
 .page__footer footer {
-  margin-top: 0;
-  padding: 0;
+  width: 100% !important;
+  max-width: none !important;
+
+  margin: 0 auto !important;
+  padding: 7px 15px !important;
+
+  text-align: center !important;
 }
 
 .page__footer-copyright {
-  margin: 0;
-  padding: 0;
-  line-height: 1.4;
-  color: #ffffff;
+  display: block !important;
+  width: 100% !important;
+
+  margin: 0 auto !important;
+  padding: 0 !important;
+
+  color: #ffffff !important;
+  font-size: 12px !important;
+  line-height: 1.4 !important;
+  text-align: center !important;
 }
 
 .page__footer a {
-  color: #ffffff;
-  text-decoration: none;
+  color: #ffffff !important;
+  text-decoration: none !important;
 }
 
 .page__footer a:hover {
-  text-decoration: underline;
+  color: #ffffff !important;
+  text-decoration: underline !important;
 }
-
 

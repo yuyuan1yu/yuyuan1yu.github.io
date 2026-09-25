@@ -102,3 +102,35 @@
     }
   }
 }
+
+.page__footer {
+  background-color: #1a1a1a;
+  color: #ffffff;
+  padding: 7px 0;
+  margin-top: 2em;
+  font-size: 12px;
+  text-align: center;
+}
+
+.page__footer footer {
+  margin-top: 0;
+  padding: 0;
+}
+
+.page__footer-copyright {
+  margin: 0;
+  padding: 0;
+  line-height: 1.4;
+  color: #ffffff;
+}
+
+.page__footer a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.page__footer a:hover {
+  text-decoration: underline;
+}
+
+

@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Yuyuan Yu"  #Your Name / Site Title
+title                    : "Yuyuan Yu"  #Your Name / Site Title on the Top
 title_separator          : "-"
 name                     : &name "Yuyuan Yu"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "yuyuan1yu/yuyuan1yu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yuyuan Yu"  #Your Sidebar Name
+  name             : "Yuyuan Yu"  #Your Sidebar Name below profile picture
   pronouns         : she/her # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Hong Kong, SAR China"

@@ -16,7 +16,7 @@ author_profile: true
 
 ## Working Papers
 
-1. [Evading the Ban: Smuggling, Pollution, and the Welfare Effects of China's Waste Import Restrictions](YOUR_JMP_LINK) (with [Hanwei Huang](YOUR_COAUTHOR_LINK)), selected for the ISoT–2nd Edition (organized by the Journal of International Economics, University of Geneva, the World Bank, and the CEPR). **(Job Market Paper)**
+1. [Evading the Ban: Smuggling, Pollution, and the Welfare Effects of China's Waste Import Restrictions](https://dx.doi.org/10.2139/ssrn.6059375) (with [Hanwei Huang](https://sites.google.com/site/chinahanweihuang/home)), selected for the ISoT–2nd Edition (organized by the Journal of International Economics, University of Geneva, the World Bank, and the CEPR). **(Job Market Paper)**
 
    **Presentations:** AEA 2027 (Washington DC, planned); AEDC 2026 (Hong Kong); AMES-E/SE 2026 (Hanoi); 12th HKEA Biennial Conference (Macau); SMU Trade Conference 2026 (Singapore)
 

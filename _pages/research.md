@@ -9,7 +9,7 @@ author_profile: true
 
 1. [Evading the Ban: Smuggling, Pollution, and the Welfare Effects of China's Waste Import Restrictions](https://dx.doi.org/10.2139/ssrn.6059375) (with [Hanwei Huang](https://sites.google.com/site/chinahanweihuang/home)), R&R at *Journal of International Economics* (selected for the International Seminar on Trade 2026). 
 
-   **Presentations:** AEA 2027 (Washington DC, planned); China International Conference in Economics (CICE) 中国经济全球年会 2026 (Beijing, planned); AEDC 2026 (Hong Kong); AMES-E/SE 2026 (Hanoi); 12th HKEA Biennial Conference (Macau); SMU Trade Conference 2026 (Singapore)
+   **Presentations:** AEA 2027 (Washington DC, planned); 中国经济全球年会 2026 (Beijing, planned); AEDC 2026 (Hong Kong); AMES-E/SE 2026 (Hanoi); 12th HKEA Biennial Conference (Macau); SMU Trade Conference 2026 (Singapore)
 
    **Abstract:** While import restrictions are increasingly deployed to achieve non-trade objectives such as environmental protection, they often create distortions and leakage through illicit trade.
    We examine this trade-off in the context of China's waste import ban. Although the policy produced measurable reductions in pollution, it also induced significant behavioral responses, including surging evasion via quantity underreporting,
